@@ -8,5 +8,6 @@ Es un Onepage Blog donde practico acerca de Git y Github, los comandos y distint
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * El amor por las buenas prácticas
+* Creado por el Tellez Team
 
 Como amable recordatorio: **Este readme.md es práctica solamente.** Diseñado para el ejemplo.
