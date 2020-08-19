@@ -4,7 +4,7 @@ Es un Onepage Blog donde practico acerca de Git y Github, los comandos y distint
 > Git y GitHub son herramientas primordiales al trabajar de manera profesional y colaborativa.
 > - Nunca pares de aprender.
 
-###Aquí practiqué de todo.
+### Aquí practiqué de todo.
 * Todos los comandos de Git
 * El flujo de trabajo en GitHub
 * El amor por las buenas prácticas
