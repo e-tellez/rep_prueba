@@ -10,5 +10,6 @@ Es un Onepage Blog donde practico acerca de Git y Github, los comandos y distint
 * El amor por las buenas prácticas
 * Creado por el Tellez Team
 * Incluye ejemplos para Windows, Linux y Mac.
+* Disponible para todas las edades
 
 Como amable recordatorio: **Este readme.md es práctica solamente.** Diseñado para el ejemplo.
